@@ -3,7 +3,7 @@
 
 # João Vitor
 
-### Desenvolvedor Web Júnior | Full-Stack Developer | <img src="./assets/Logotipe2.svg" width="12" height="16" alt="Acode"/> Acode
+### Desenvolvedor Web Júnior | Full-Stack Developer | <img src="./assets/Logotipe2.svg" width="16" height="20" alt="Acode"/> Acode
 
 Construindo experiências digitais, sistemas web e soluções que transformam ideias em realidade.
 
