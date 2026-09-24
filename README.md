@@ -69,7 +69,7 @@ Atualmente, sigo aprimorando minhas habilidades e construindo projetos para evol
 
 ---
 
-## <img src="./assets/Logotipe2.svg" width="16" height="20" alt="Acode"/> Acode
+## <img src="./assets/Logotipe2.svg" width="36" height="40" alt="Acode"/> Acode
 
 ### Tecnologia, design e soluções digitais.
 
