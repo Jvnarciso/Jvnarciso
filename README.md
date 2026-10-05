@@ -79,7 +79,7 @@ Nosso objetivo é desenvolver experiências digitais modernas e funcionais, comb
 
 🌐 **Conheça a Acode:**
 
-[www.acodestudio.dev](https://www.acodestudio.dev)
+[www.acodestudio.dev](https://www.acodestudio.vercel.app)
 
 #### Soluções
 
@@ -119,7 +119,7 @@ Estou constantemente buscando evoluir minhas habilidades e criar soluções cada
 <img src="https://img.shields.io/badge/Instagram-jvnarcisoo_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.acodestudio.dev">
+<a href="https://www.acodestudio.vercel.app">
 <img src="https://img.shields.io/badge/Acode-111820?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Acode"/>
 </a>
 
